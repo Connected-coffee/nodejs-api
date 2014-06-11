@@ -1,0 +1,16 @@
+{
+    "name": "cafetiere-api",
+    "version": "1.0.0",
+    "description": "API du systeme de gestion de cafetiere",
+
+    "dependencies": {
+        "express": "4.0.0",
+        "body-parser": "*",
+        "method-override": "*",
+        "curlrequest": "*",
+        "sha1": "*",
+        "mysql": "*",
+        "nodemailer": "*",
+        "colors": "*"
+    }
+}
